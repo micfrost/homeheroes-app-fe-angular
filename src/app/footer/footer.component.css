@@ -1,0 +1,12 @@
+
+footer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 90%;
+  max-width: 50rem;
+  margin: 2rem auto 2rem auto;
+  text-align: center;
+  background-color: #180939;
+  border-radius: 5px;
+}

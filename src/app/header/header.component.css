@@ -1,0 +1,28 @@
+
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  /*gap: 1rem;*/
+  width: 90%;
+  max-width: 50rem;
+  margin: 2rem auto 2rem auto;
+  text-align: center;
+  background-color: #180939;
+  padding-top: 1rem;
+  /*padding-bottom: 1rem;*/
+  border-radius: 5px;
+}
+
+i {
+  font-size: 3rem;
+  /*margin: 1rem;*/
+}
+
+
+
+@media (min-width: 768px) {
+  header {
+    /*padding: 4rem;*/
+  }
+}
